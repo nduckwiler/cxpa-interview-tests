@@ -25,7 +25,7 @@ git clone git://github.com/nduckwiler/cxpa-interview-tests.git
 
 Running the tests
 -------
-In the directory containing this repo (probably `cxpa-interview-tests`), run 
+In the directory containing this repo (probably `cxpa-interview-tests`), run:
 ```
 node test.js
 ```
