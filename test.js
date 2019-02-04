@@ -1,3 +1,8 @@
+/* 
+ * Adapted from a Codecademy checkpoint test.
+ * See the real thing here: https://www.codecademy.com/content-items/1302ffcc4ee6cb493a0911859492ca48/exercises/else-if
+ */
+
 const fs = require('fs');
 
 const code = fs.readFileSync('./werewolf.js', 'utf-8');
